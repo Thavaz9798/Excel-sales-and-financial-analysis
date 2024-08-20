@@ -14,8 +14,8 @@
  - Here I attach the market level performance with the target [https://github.com/Thavaz9798/Excel-sales-and-financial-analysis/blob/main/Market%20performance%20vs%20Target.pdf]
 
 ## Finance analytics
- - Create a Profit and loss report for the fiscal year
- - Another report for the profit and loss for the fiscal months here is the report just go through it
+ - Create a Profit and loss report for the fiscal year here is the report []
+ - Another report for the profit and loss for the fiscal months here is the report just go through it[https://github.com/Thavaz9798/Excel-sales-and-financial-analysis/blob/main/P%26L%20%20By%20months.pdf]
  - The purpose of analyze the finance data is make sure the financial performance , decision making for the stake holders
  - From the finance analysis it is easily help ful for the bench marking aganist the industry and for the forecasting budgeting
  - **Role of reports :** Align financial planning with startegic goals instill confidence in the organization financial look
