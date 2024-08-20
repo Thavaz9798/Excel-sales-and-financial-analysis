@@ -11,7 +11,7 @@
  -  Here I just attach the file of the analyis [https://github.com/Thavaz9798/Excel-sales-and-financial-analysis/blob/main/Customer%20peformance.pdf]
  - After that we analyze the same data with the market level but now we just add the target as well because we need to know how we 
    acheive the target and lag behind the target 
- - Here I attach the market level performance with the target 
+ - Here I attach the market level performance with the target [https://github.com/Thavaz9798/Excel-sales-and-financial-analysis/blob/main/Market%20performance%20vs%20Target.pdf]
 
 ## Finance analytics
  - Create a Profit and loss report for the fiscal year
